@@ -1,40 +1,34 @@
 {
-    "squadName" : "Super hero squad",
-    "homeTown" : "Metro City",
+    "squadName" : "Ejemplo de super heroes",
+    "homeTown" : "City",
     "formed" : 2019,
-    "secretBase" : "Super tower",
+    "secretBase" : "Superdl",
     "active" : true,
     "members" : [
       {
-        "name" : "Molecule Man",
+        "name" : "batman",
         "age" : 29,
-        "secretIdentity" : "Dan Jukes",
+        "secretIdentity" : "Don luker",
         "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+          "Super Fuerza",
+          "SuperHumano"
         ]
       },
       {
-        "name" : "Madame Uppercut",
+        "name" : "Elastica",
         "age" : 39,
-        "secretIdentity" : "Jane Wilson",
+        "secretIdentity" : "Juana Will",
         "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
+          "Superhumano flexible"
         ]
       },
       {
         "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
+        "age" : 450,
+        "secretIdentity" : "desconodido",
         "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
+          "Inmortal",
+          "viajera del tiempo"
         ]
       }
     ]
